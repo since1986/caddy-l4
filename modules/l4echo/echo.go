@@ -18,7 +18,7 @@ import (
 	"io"
 
 	"github.com/caddyserver/caddy/v2"
-	"github.com/mholt/caddy-l4/layer4"
+	"github.com/since1986/caddy-l4/layer4"
 )
 
 func init() {

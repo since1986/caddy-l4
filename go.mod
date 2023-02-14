@@ -5,7 +5,6 @@ go 1.18
 require (
 	github.com/caddyserver/caddy/v2 v2.6.2
 	github.com/mastercactapus/proxyprotocol v0.0.3
-	github.com/mholt/caddy-l4 v0.0.0-20230131204029-58d19ae52d60
 	github.com/things-go/go-socks5 v0.0.2
 	go.uber.org/zap v1.23.0
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a
